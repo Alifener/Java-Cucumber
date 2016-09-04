@@ -1,10 +1,8 @@
 # TheMillCucumber
 
-Prerequisites 
+Prerequisite:
+- Firefox version 47.0.1
 
-Firefox version 47.0.1
-
-Tested Environement
-MacBook
+Tested Environment: MacBook
 
  
